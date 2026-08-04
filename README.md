@@ -128,6 +128,13 @@ Online Retail II 데이터셋은 인보이스 번호가 'C'로 시작하면 취�
 
 다만 이 데이터에는 취소 사유, 고객 유형(개인/기업) 정보가 없어 모든 해석은 상관관계 수준에 머무르며, 인과관계 확정에는 추가 정보가 필요하다.
 
-## 10. 상세 분석 과정
+## 10. 인터랙티브 대시보드
+
+[Tableau Public에서 대시보드 보기](https://public.tableau.com/views/_17858593476820/1?:language=ko-KR&:display_count=n&:origin=viz_share_link)
+
+국가별·요일/시간대별·주문 수량 구간별·상품별 취소율을 한 화면에서 인터랙티브하게 확인할 수 있다.
+
+## 11. 상세 분석 과정
 
 전체 전처리, EDA, 검증 과정은 [analysis.ipynb](./analysis.ipynb)에서 확인할 수 있다.
+
