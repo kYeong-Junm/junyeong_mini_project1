@@ -44,9 +44,11 @@ Online Retail II 데이터셋은 인보이스 번호가 'C'로 시작하면 취�
 
 ## 🗂 데이터 설명
 
-- **데이터 출처**: UCI Machine Learning Repository (Kaggle 재배포본)
+- **데이터 출처**: [Kaggle - Online Retail II UCI](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
+- 원본 데이터는 용량 제한으로 저장소에 포함하지 않았으며, 위 링크에서 다운로드 가능
 - **데이터명**: Online Retail II
 - **분석 단위**: 인보이스(거래) 단위 트랜잭션 로그
+
 
 ### Raw Data
 
