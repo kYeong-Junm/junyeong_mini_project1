@@ -189,7 +189,6 @@ quantity_group = quantity_abs를 5개 구간으로 구간화 (1-5개 / 6-20개 /
 └── README.md
 ```
 
-> 원본 데이터(online_retail_II.csv)는 파일 용량 문제로 저장소에 포함하지 않았다. 위 Kaggle 링크에서 다운로드 후 로컬에서 `notebooks/analysis.ipynb`와 같은 경로에 두면 노트북이 그대로 실행된다.
 
 ## 📚 데이터 출처 및 인용
 
