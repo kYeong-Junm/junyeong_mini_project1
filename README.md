@@ -187,6 +187,7 @@ quantity_group = quantity_abs를 5개 구간으로 구간화 (1-5개 / 6-20개 /
 ├── notebooks/
 │   └── analysis.ipynb
 ├── results/
+│   └── dashboard_preview.png
 └── README.md
 ```
 
