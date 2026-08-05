@@ -4,8 +4,10 @@
 
 ## 📎 Files
 
-- 📊 [Raw Data (CSV)](./data/online_retail_II.csv)
+- 🖼 [Dashboard Preview](./results/dashboard_preview.png)
 - 🎛 [Interactive Dashboard (Tableau Public)](https://public.tableau.com/views/_17858593476820/1?:language=ko-KR&:display_count=n&:origin=viz_share_link)
+
+> 원본 데이터는 용량 제한(GitHub 웹 업로드 25MB)으로 저장소에 포함하지 않았으며, 아래 "데이터 설명" 섹션의 출처 링크에서 다운로드 가능하다.
 
 ## 📓 Analysis Notebook
 
